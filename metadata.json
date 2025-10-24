@@ -1,0 +1,5 @@
+{
+  "name": "AI Flashcard Generator",
+  "description": "An intelligent flashcard application that automatically generates study cards from your uploaded notes (PDF, TXT, PNG, JPEG). Customize the number of cards and enjoy a beautiful, simple, and effective learning experience.",
+  "requestFramePermissions": []
+}
