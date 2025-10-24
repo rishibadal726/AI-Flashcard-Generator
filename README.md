@@ -4,9 +4,6 @@ Instantly transform your notes (PDF, TXT, XLSX, images) into interactive flashca
 
 ---
 
-![AI Flashcard Generator UI](https://placehold.co/800x500/1e293b/94a3b8/png?text=Your+App+Screenshot+Here)
-> _**To add your own screenshot:** Create a `docs` folder, save an image as `app-screenshot.png` inside it, and replace the URL above with `./docs/app-screenshot.png`._
-
 ## Features
 - **AI-Powered Creation**: Automatically generates flashcards from PDFs, text files, spreadsheets, and images.
 - **Multiple Study Modes**: Learn, Test, and a fun, timed matching game.
